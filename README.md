@@ -27,7 +27,7 @@
 
 ###
 
-<p align="left"> Hi there! My name is Maria<br><br> 🔭 I’m studying Computer Science at PUC-GO<br> 📚 I'm currently learning Java&#x20;<br> 🌱 I’m also exploring cloud computing<br></p>
+<p align="left"> Hi there! My name is Maria<br><br> 🔭I’m studying Computer Science at PUC-GO<br> 📚I'm developer back end Java&#x20;<br> 🌱I’m also exploring cloud computing<br></p>
 
 ###
 
