@@ -19,15 +19,15 @@
 
 ###
 
-<h1 align="center">Welcome 👋</h1>
+<h1 align="center">Welcome</h1>
 
 ###
 
-<h3 align="left">👩‍💻  About Me</h3>
+<h3 align="left">About Me</h3>
 
 ###
 
-<p align="left">## Hi there! 👋 My name is Maria<br><br>- 🔭 I’m studying Computer Science at PUC-GO<br>- 📚 I'm currently learning Java&#x20;<br>- 🌱 I’m also exploring cloud computing<br>-🏆 Winner of the Hackathon PUC-GO 2023/2<br>- ⚡ In my free time, I like to watch thriller films and play chess</p>
+<p align="left"> Hi there! My name is Maria<br><br> 🔭 I’m studying Computer Science at PUC-GO<br> 📚 I'm currently learning Java&#x20;<br> 🌱 I’m also exploring cloud computing<br></p>
 
 ###
 
@@ -36,13 +36,17 @@
 ###
 
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=cs" height="40" alt="csharp logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" height="40" alt="java logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=js" height="40" alt="javascript logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" height="40" alt="python logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-plain-wordmark.svg" height="40" alt="postgresql logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=azure" height="40" alt="azure logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg" height="40" alt="git logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=docker" height="40" alt="docker logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" height="40" alt="intellij logo"  />
 </div>
 
 ###
