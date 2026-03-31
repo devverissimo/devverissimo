@@ -27,7 +27,7 @@
 
 ###
 
-<p align="left">## Hi there! 👋 My name is Maria<br><br>- 🔭 I’m studying Computer Science at PUC-GO<br>- 📚 I'm currently learning C#&#x20;<br>- 🌱 I’m also exploring cloud computing<br>-🏆 Winner of the Hackathon PUC-GO 2023/2<br>- ⚡ In my free time, I like to watch thriller films and play chess</p>
+<p align="left">## Hi there! 👋 My name is Maria<br><br>- 🔭 I’m studying Computer Science at PUC-GO<br>- 📚 I'm currently learning Java&#x20;<br>- 🌱 I’m also exploring cloud computing<br>-🏆 Winner of the Hackathon PUC-GO 2023/2<br>- ⚡ In my free time, I like to watch thriller films and play chess</p>
 
 ###
 
