@@ -19,37 +19,39 @@
 
 ###
 
-<h1 align="center">Welcome</h1>
+## Hi there! 👋
 
-###
+Data Engineer in training | Computer Science undergraduate — focused on turning raw data into meaningful information through SQL, Python and data pipelines.
 
-<h3 align="left">About Me</h3>
+## About Me
 
-###
+- Name: Maria Verissimo (GitHub: [devverissimo](https://github.com/devverissimo))
+- Role: Data Engineer in training — SQL, Python & data pipelines
+- Location: Goiânia, Brazil
+- Focus: turning raw data into reliable, structured information
 
-<p align="left"> Hi there! My name is Maria<br><br> 🔭I’m studying Computer Science at PUC-GO<br> 📚I'm developer back end Java&#x20;<br> 🌱I’m also exploring cloud computing<br></p>
+I'm building a Data Engineering portfolio end-to-end — from data collection (APIs) through processing (Python, Pandas, SQL) to visualization (Power BI). I also bring a solid backend foundation (Java, Spring Boot) that helps me think about data systems with an engineering mindset: reliability, structure and maintainability.
 
-###
+## Skills & Technologies
+
+[![My Skills](https://skillicons.dev/icons?i=java,py,spring,docker,maven,gradle,git,github,linux,pycharm,idea&perline=8)](https://skillicons.dev)
+
+## Top Projects
+
+- **[clean_CSV_pandas](https://github.com/devverissimo/clean_CSV_pandas)**
+  Python scripts for CSV data cleaning and transformation using pandas.
+  `Python`
+
+- **[user-management-api](https://github.com/devverissimo/user-management-api)**
+  REST API for user management — Spring Boot, JWT authentication, Docker.
+  `Java`
+
+- **selic-ipca-dashboard** *(coming soon)*
+  Economic data pipeline (Brazilian Central Bank API) with Power BI dashboard.
+  `Python` `Power BI`
 
 <h3 align="left">🛠 Language and tools</h3>
 
-###
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" height="40" alt="java logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" height="40" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-plain-wordmark.svg" height="40" alt="postgresql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg" height="40" alt="git logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=docker" height="40" alt="docker logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" height="40" alt="intellij logo"  />
-</div>
-
-###
 
 <div align="center">
   <img height="136" src="https://profile-readme-generator.com/assets/snake.svg"  />
