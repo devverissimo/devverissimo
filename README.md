@@ -50,7 +50,6 @@ I'm building a Data Engineering portfolio end-to-end — from data collection (A
   Economic data pipeline (Brazilian Central Bank API) with Power BI dashboard.
   `Python` `Power BI`
 
-<h3 align="left">🛠 Language and tools</h3>
 
 
 <div align="center">
