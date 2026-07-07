@@ -46,7 +46,7 @@ I'm building a Data Engineering portfolio end-to-end — from data collection (A
   REST API for user management — Spring Boot, JWT authentication, Docker.
   `Java`
 
-- **selic-ipca-dashboard** *(coming soon)*
+- **[selic-ipca-dashboard](https://github.com/devverissimo/projeto_selic)**
   Economic data pipeline (Brazilian Central Bank API) with Power BI dashboard.
   `Python` `Power BI`
 
